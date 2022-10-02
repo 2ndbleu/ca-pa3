@@ -174,7 +174,7 @@ For example, if the value of the `t6` is equal to 0x0000000d (0b1101 in binary),
 
 Have fun!
 
-[Jin-Soo Kim](mailto:jinsoo.kim_AT_snu.ac.kr)  
+[Jin-Soo Kim](mailto:jinsoo.kim@snu.ac.kr)  
 [Systems Software and Architecture Laboratory](http://csl.snu.ac.kr)  
 [Dept. of Computer Science and Engineering](http://cse.snu.ac.kr)  
 [Seoul National University](http://www.snu.ac.kr)
